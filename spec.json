@@ -4,9 +4,16 @@
   "version": "0.1.0-draft",
   "status": "early-development",
   "released": false,
-  "license": null,
+  "license": "Apache-2.0",
   "initialJurisdiction": "BC",
   "jsonSchemaDialect": "https://json-schema.org/draft/2020-12/schema",
   "idPrefix": "urn:coos:schema:",
-  "domains": ["core", "governance", "financial", "maintenance", "documents", "compliance"]
+  "domains": [
+    "core",
+    "governance",
+    "financial",
+    "maintenance",
+    "documents",
+    "compliance"
+  ]
 }

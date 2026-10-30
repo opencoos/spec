@@ -28,4 +28,4 @@ Open an issue to report a problem, a missing concept, or terminology that doesn'
 
 ## Licence
 
-A licence has not been chosen yet. It will be added before the first release.
+Licensed under the [Apache License, Version 2.0](LICENSE). You may use, modify and embed the schemas and examples in open-source or commercial products. Copyright The OpenCOOS Authors; contributions are accepted under the same licence. The Apache License does not grant rights to the names "COOS" or "OpenCOOS" or the logo (see [NOTICE](NOTICE)).
